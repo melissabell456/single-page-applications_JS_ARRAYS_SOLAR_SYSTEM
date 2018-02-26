@@ -1,5 +1,13 @@
-# single-page-applications_JS_ARRAYS_SOLAR_SYSTEM.md
-Copy the code below into the JavaScript file, and follow the instructions in the comments.
+# Solar System
+
+## NSS Exercise 
+```
+
+## Requirements
+
+1. Copy the code below into the JavaScript file, and follow the instructions in the comments.
+
+```javascript
 var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"];
 
 /*
@@ -15,3 +23,4 @@ var el = document.getElementById("planets");
 // Use the reduce method to create a sentence from the words in the following array
 
 var words = ["The", "early", "bird", "might", "get", "the", "worm", "but", "the", "second", "mouse", "gets", "the", "cheese"];
+```
